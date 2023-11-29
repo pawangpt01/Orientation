@@ -1,0 +1,19 @@
+form {
+    
+    color: black;
+    padding: 10px;
+    font-family: Arial;
+  
+  }
+
+ 
+.b-color{
+  background-color: #e7e9ec;
+}
+.card{
+  box-shadow: 0 0 5px rgb(0 0 0 / 18%), 0 5px 5px rgb(0 0 0 / 25%)!important;
+}
+.modal-lgmodal-dialog.modal-lg{
+  width: 950px!important;
+}
+
